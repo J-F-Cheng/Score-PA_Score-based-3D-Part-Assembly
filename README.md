@@ -32,7 +32,7 @@ sh train_{chair / table / lamp}.sh
 sh test_{chair / table / lamp}.sh
 ```
 ### Pretrained Models
-We have include our pretrained models in the "pretrained_models" folder.
+We release our pretrained models in the "pretrained_models" folder.
 
 ## Citation
 ```
