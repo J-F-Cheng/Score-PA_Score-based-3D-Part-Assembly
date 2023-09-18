@@ -39,7 +39,7 @@ We release our pretrained models in the "pretrained_models" folder.
 @article{cheng2023score,
   title={Score-PA: Score-based 3D Part Assembly},
   author={Cheng, Junfeng and Wu, Mingdong and Zhang, Ruiyuan and Zhan, Guanqi and Wu, Chao and Dong, Hao},
-  journal={BMVC 2023 (Oral)},
+  journal={British Machine Vision Conference (BMVC)},
   year={2023}
 }
 ```
